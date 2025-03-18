@@ -114,7 +114,7 @@ main h2 {
 }
 
 main img {
-    height: 500px; /* Đặt chiều cao cố định để đồng đều */
+    height: auto; /* Đặt chiều cao cố định để đồng đều */
     width: 800px;
     object-fit: cover;
 }
